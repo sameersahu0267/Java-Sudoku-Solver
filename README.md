@@ -35,10 +35,14 @@ The project uses a backtracking algorithm to solve Sudoku puzzles.
 ## Screenshots
 
 ### Main Interface
-![Main UI](Screenshots/Sudoku Solver 1.png)
+![Main UI](Screenshots/Sudoku1.png)
 
-### Sudoku
-![Solved Sudoku](Screenshots/Sudoku Solver 2.png)
+### Sudoku Puzzle
+![Sudoku Puzzle](Screenshots/Sudoku2.png)
 
 ### Solved Sudoku
-![Solved Sudoku](Screenshots/Sudoku Solver 3.png)
+![Solved Sudoku](Screenshots/Sudoku3.png)
+
+## Author
+Sameer Sahu  
+MCA Student
